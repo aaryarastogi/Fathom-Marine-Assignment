@@ -65,8 +65,8 @@ Follow these steps to run the application locally on your machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
-cd FathomMarineAssignment
+git clone git@github.com:aaryarastogi/Fathom-Marine-Assignment.git
+cd Fathom-Marine-Assignment
 ```
 
 ### 2. Backend Setup
